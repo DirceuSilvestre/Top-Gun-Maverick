@@ -30,7 +30,7 @@ Criado como tarefa das aulas de Programação Estruturada, e atentendo as **func
   - Falas do Filme na Dublagem Clássica
   - Menu de Opções
   - Volume
-  - Rádio
+  - Rádio para curtir as Músicas
 
 <br />
 <br />
